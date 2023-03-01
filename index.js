@@ -14,7 +14,7 @@ function elegirCategoria() {
 
     switch (productoCategoria) {
       case 1:
-        categoria = "Fertilizantes-insecticidas";
+        categoria = "Fertilizantes y insecticidas";
         productos = [
           "babosil cebo",
           "diatomeo talquera",
